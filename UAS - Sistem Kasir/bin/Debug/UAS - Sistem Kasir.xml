@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UAS-SistemKasir
+</name>
+</assembly>
+<members>
+<member name="P:UAS___Sistem_Kasir.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:UAS___Sistem_Kasir.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:UAS___Sistem_Kasir.My.Resources.Resources.icons8_accounting_80">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UAS___Sistem_Kasir.My.Resources.Resources.icons8_accounting_801">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UAS___Sistem_Kasir.My.Resources.Resources.icons8_read_online_96_1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UAS___Sistem_Kasir.My.Resources.Resources.icons8_read_online_96_1_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UAS___Sistem_Kasir.My.Resources.Resources.icons8_shop_96">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UAS___Sistem_Kasir.My.Resources.Resources.icons8_trolley_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UAS___Sistem_Kasir.My.Resources.Resources.icons8_trolley_96">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UAS___Sistem_Kasir.My.Resources.Resources.icons8_trolley_961">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UAS___Sistem_Kasir.My.Resources.Resources.s_HOME_IMAGE">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UAS___Sistem_Kasir.My.Resources.Resources.shopping_cart_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:UAS___Sistem_Kasir.My.Resources.Resources.shopping_cart_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:UAS___Sistem_Kasir.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

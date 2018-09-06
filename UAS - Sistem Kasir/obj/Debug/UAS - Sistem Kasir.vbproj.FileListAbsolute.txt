@@ -1,0 +1,20 @@
+C:\Users\Jakepong\AppData\Local\Temporary Projects\UAS - Sistem Kasir\bin\Debug\UAS - Sistem Kasir.exe.config
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\bin\Debug\UAS - Sistem Kasir.exe.config
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\bin\Debug\UAS - Sistem Kasir.exe
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\bin\Debug\UAS - Sistem Kasir.pdb
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\bin\Debug\UAS - Sistem Kasir.xml
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\obj\Debug\UAS___Sistem_Kasir.Resources.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\obj\Debug\UAS - Sistem Kasir.vbproj.GenerateResource.Cache
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\obj\Debug\UAS - Sistem Kasir.exe
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\obj\Debug\UAS - Sistem Kasir.xml
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\obj\Debug\UAS - Sistem Kasir.pdb
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\obj\Debug\UAS___Sistem_Kasir.Menu.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\obj\Debug\UAS - Sistem Kasir.vbprojResolveAssemblyReference.cache
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\obj\Debug\UAS___Sistem_Kasir.LapBarang.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\obj\Debug\UAS___Sistem_Kasir.LapBarangALL.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\obj\Debug\UAS___Sistem_Kasir.LapAdminALL.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\obj\Debug\UAS___Sistem_Kasir.LapTransaksiALL.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\obj\Debug\UAS___Sistem_Kasir.barang.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\obj\Debug\UAS___Sistem_Kasir.admin.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\obj\Debug\UAS___Sistem_Kasir.transaksi.resources
+C:\Users\Jakepong\Documents\Visual Studio 2012\Projects\UAS - Sistem Kasir\UAS - Sistem Kasir\obj\Debug\UAS___Sistem_Kasir.Form1.resources
