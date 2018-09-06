@@ -10,6 +10,6 @@ Merupakan sistem POS sederhana berbasis desktop yang dibangun dengan visual stud
 * SAP Crystal Report
 
 # Usage
-* Import database dbkasir dari folder db/dbkasir.sql
+* Import database dbkasir dari folder DB/dbkasir.sql
 * Buat koneksi dengan ODBC Connection
 * Jalankan project dengan Visual Studio 2012
